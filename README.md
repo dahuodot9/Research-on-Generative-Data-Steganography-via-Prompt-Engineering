@@ -1,0 +1,2 @@
+# Research-on-Generative-Data-Steganography-via-Prompt-Engineering
+本项目是基于大语言模型API的生成式文本隐写系统，通过控制Prompt的六个维度组合实现秘密信息的隐蔽嵌入与零样本提取。系统支持文心一言、豆包、Kimi等多模型API调用、批量数据生成与标注、BERT特征提取与风格分类、多维度联合编码验证、困惑度评估及跨模型响应对比。可用于隐蔽通信、信息安全、隐私保护等场景的学术研究与原型验证。
